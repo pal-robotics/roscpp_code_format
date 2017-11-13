@@ -14,7 +14,7 @@
     "BreakBeforeBinaryOperators": false,
     "BreakBeforeTernaryOperators": false,
     "BreakConstructorInitializersBeforeComma": true,
-    "BreakStringLiterals", false,
+    "BreakStringLiterals": false,
     "BinPackParameters": true,
     "ColumnLimit":    90,
     "ConstructorInitializerAllOnOneLineOrOnePerLine": true,
